@@ -7,12 +7,16 @@ Also had problems uploading the "Library" folder because GitHub doesn't allow me
 
 Inside the "Library" folder :
     
-   ArtifactDB.zip
-   SourceAssetDB.zip
+  - ArtifactDB.zip
+  - SourceAssetDB.zip
 
 Inside "Library/PackageCache" :
     
-   Everything inside the folder
+  - Everything inside the folder
    
 
+ 
+ 
+ 
+ 
  That should work, but if not I've created a Google Drive folder that has the same files here : https://drive.google.com/drive/folders/19YP7lDGd2rO5dZOEPMqIo1GRg1tnXnFg?usp=sharing
